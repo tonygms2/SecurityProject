@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecurityProject</string>
+    <string name="decryptButton">Decrypt</string>
+    <string name="encryptButton">Encrypt</string>
+    <string name="SecretKey">SECRET KEY</string>
+    <string name="MESSAGE">MESSAGE</string>
+</resources>

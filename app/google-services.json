@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121692015509",
+    "firebase_url": "https://stockmarket-bc741.firebaseio.com",
+    "project_id": "stockmarket-bc741",
+    "storage_bucket": "stockmarket-bc741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121692015509:android:15dd955c757654cd0b049c",
+        "android_client_info": {
+          "package_name": "com.example.securityproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121692015509-gqiuc155d84130gp7hbhipkbikutftp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrpHs4XnK54VrhocyVrvLCxCaLkBRPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121692015509-gqiuc155d84130gp7hbhipkbikutftp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
